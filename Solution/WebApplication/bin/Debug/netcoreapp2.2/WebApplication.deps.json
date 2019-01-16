@@ -283,7 +283,8 @@
       },
       "ClassLibrary/1.0.0": {
         "dependencies": {
-          "MySql.Data": "8.0.13"
+          "MySql.Data": "8.0.13",
+          "Newtonsoft.Json": "12.0.1"
         },
         "runtime": {
           "ClassLibrary.dll": {}
