@@ -19,6 +19,7 @@ namespace WebApplication.Controllers
             Class1 c1 = new Class1();
             Console.WriteLine(c1.GetInt());
 
+            //test
             DataBase db = new DataBase();
             MySqlConnection conn = db.GetConnection();
             if(conn == null)
