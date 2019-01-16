@@ -20,7 +20,7 @@ namespace ClassLibrary
             {
                 MySqlConnection conn = new MySqlConnection();
 
-                string path = "\\public\\DBInfo.json";
+                string path = "/public/DBInfo.json";                
                 string result = new StreamReader(File.OpenRead(path)).ReadToEnd();
                 JObject jo = JsonConvert.DeserializeObject<JObject>(result);
                 Hashtable map = new Hashtable();
