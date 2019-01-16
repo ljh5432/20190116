@@ -12255,11 +12255,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\public\\Project\\20190116\\Solution\\WebApplication\\WebApplication.csproj",
+      "projectUniqueName": "C:\\public\\Project\\20190116\\20190116\\Solution\\WebApplication\\WebApplication.csproj",
       "projectName": "WebApplication",
-      "projectPath": "C:\\public\\Project\\20190116\\Solution\\WebApplication\\WebApplication.csproj",
+      "projectPath": "C:\\public\\Project\\20190116\\20190116\\Solution\\WebApplication\\WebApplication.csproj",
       "packagesPath": "C:\\Users\\gdc5\\.nuget\\packages\\",
-      "outputPath": "C:\\public\\Project\\20190116\\Solution\\WebApplication\\obj\\",
+      "outputPath": "C:\\public\\Project\\20190116\\20190116\\Solution\\WebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12278,8 +12278,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\public\\Project\\20190116\\Solution\\ClassLibrary\\ClassLibrary.csproj": {
-              "projectPath": "C:\\public\\Project\\20190116\\Solution\\ClassLibrary\\ClassLibrary.csproj"
+            "C:\\public\\Project\\20190116\\20190116\\Solution\\ClassLibrary\\ClassLibrary.csproj": {
+              "projectPath": "C:\\public\\Project\\20190116\\20190116\\Solution\\ClassLibrary\\ClassLibrary.csproj"
             }
           }
         }

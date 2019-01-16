@@ -1,0 +1,17 @@
+C:\public\Project\20190116\20190116\Solution\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.deps.json
+C:\public\Project\20190116\20190116\Solution\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.json
+C:\public\Project\20190116\20190116\Solution\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.dev.json
+C:\public\Project\20190116\20190116\Solution\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.dll
+C:\public\Project\20190116\20190116\Solution\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.pdb
+C:\public\Project\20190116\20190116\Solution\WebApplication\bin\Debug\netcoreapp2.2\ClassLibrary.dll
+C:\public\Project\20190116\20190116\Solution\WebApplication\bin\Debug\netcoreapp2.2\ClassLibrary.pdb
+C:\public\Project\20190116\20190116\Solution\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csprojAssemblyReference.cache
+C:\public\Project\20190116\20190116\Solution\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csproj.CoreCompileInputs.cache
+C:\public\Project\20190116\20190116\Solution\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cache
+C:\public\Project\20190116\20190116\Solution\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cs
+C:\public\Project\20190116\20190116\Solution\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfoInputs.cache
+C:\public\Project\20190116\20190116\Solution\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfo.cs
+C:\public\Project\20190116\20190116\Solution\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorTargetAssemblyInfo.cache
+C:\public\Project\20190116\20190116\Solution\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csproj.CopyComplete
+C:\public\Project\20190116\20190116\Solution\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.dll
+C:\public\Project\20190116\20190116\Solution\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.pdb

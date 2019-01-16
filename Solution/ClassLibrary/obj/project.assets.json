@@ -544,11 +544,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\public\\Project\\20190116\\Solution\\ClassLibrary\\ClassLibrary.csproj",
+      "projectUniqueName": "C:\\public\\Project\\20190116\\20190116\\Solution\\ClassLibrary\\ClassLibrary.csproj",
       "projectName": "ClassLibrary",
-      "projectPath": "C:\\public\\Project\\20190116\\Solution\\ClassLibrary\\ClassLibrary.csproj",
+      "projectPath": "C:\\public\\Project\\20190116\\20190116\\Solution\\ClassLibrary\\ClassLibrary.csproj",
       "packagesPath": "C:\\Users\\gdc5\\.nuget\\packages\\",
-      "outputPath": "C:\\public\\Project\\20190116\\Solution\\ClassLibrary\\obj\\",
+      "outputPath": "C:\\public\\Project\\20190116\\20190116\\Solution\\ClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

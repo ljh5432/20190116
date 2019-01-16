@@ -1,0 +1,9 @@
+C:\public\Project\20190116\20190116\Solution\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+C:\public\Project\20190116\20190116\Solution\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+C:\public\Project\20190116\20190116\Solution\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+C:\public\Project\20190116\20190116\Solution\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+C:\public\Project\20190116\20190116\Solution\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\public\Project\20190116\20190116\Solution\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\public\Project\20190116\20190116\Solution\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+C:\public\Project\20190116\20190116\Solution\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+C:\public\Project\20190116\20190116\Solution\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb

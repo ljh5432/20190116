@@ -7,8 +7,8 @@ namespace ClassLibrary
 {
     public class DataBase
     {
-        private string strConnection1 = string.Format("server={0};user={1};password={2};database={3};", "192.168.3.253", "root", "test", "test");
-        private string strConnection2 = string.Format("server={0};user={1};password={2};database={3};", "192.168.3.250", "root", "1234", "gudi");
+        private string strConnection1 = string.Format("server={0};user={1};password={2};database={3};", "192.168.3.127", "root", "1234", "test");
+        private string strConnection2 = string.Format("server={0};user={1};password={2};database={3};", "192.168.3.150", "root", "1234", "test");
 
         public MySqlConnection GetConnection()
         {
